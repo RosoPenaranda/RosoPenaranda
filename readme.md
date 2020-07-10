@@ -14,6 +14,6 @@ en frameworks como Django, Ruby on Rails, Flutter y React Native
 
 Uso de contenedores con Docker, Redes de computadoras y seguridad informática.
 
-Nivel de ingles C1 - [EF-Certificado] (https://github.com/RosoPenaranda/RosoPenaranda/EF-SET-Certificate.pdf)
-Hoja de vida - [PDF](https://github.com/RosoPenaranda/RosoPenaranda/Hoja-de-vida-Roso-Peñaranda.pdf)
+Nivel de ingles C1 - [EF-Certificado] (https://github.com/RosoPenaranda/RosoPenaranda/blob/masterEF-SET-Certificate.pdf)
+Hoja de vida - [PDF](https://github.com/RosoPenaranda/RosoPenaranda/blob/master/Hoja-de-vida-Roso-Pe%C3%B1aranda.pdf)
 [Linkedin]( https://www.linkedin.com/mwlite/in/roso-pe%C3%B1aranda-274649a5)
