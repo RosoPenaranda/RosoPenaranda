@@ -1,6 +1,6 @@
 # Roso Peñaranda
 
-Tengo experiencia en el desarrollo de API REST con NodeJS, haciendo uso de ExpressJS
+Tengo experiencia en el desarrollo de API REST/Graphql con NodeJS, haciendo uso de ExpressJS
 y también con NestJS. En el diseño e implementación de bases de datos relacionales
 usando los DBMS: PostgreSQL, MySql, Oracle y con el uso de base de datos
 no relacionales como MongoDB, Redis y Firestore.
