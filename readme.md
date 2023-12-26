@@ -10,4 +10,4 @@ English leve C1 - [EFSET](https://github.com/RosoPenaranda/RosoPenaranda/blob/ma
 
 Resume - [PDF](https://github.com/RosoPenaranda/RosoPenaranda/blob/master/Roso_Antonio_Peñaranda.pdf)
 
-[Linkedin](https://www.linkedin.com/mwlite/in/roso-pe%C3%B1aranda-274649a5)
+[Linkedin](https://www.linkedin.com/in/rosopenaranda/)
